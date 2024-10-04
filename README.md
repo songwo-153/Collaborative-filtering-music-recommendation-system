@@ -18,28 +18,33 @@ Maven包：Maven3.3.9
 前台界面采用智能排序向用户进行推荐
 
 ## 数据库表设计
-![输入图片说明](112%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A1%A8.png)
+![112数据库表](https://github.com/user-attachments/assets/69fe1c40-f7cb-4868-8797-73cf59e2fc2b)
+
 ## 项目开发结构
-![输入图片说明](111%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+![111项目结构](https://github.com/user-attachments/assets/53834b7d-a6dc-4f68-9182-3f2e20cef0af)
+
 ## 主要推荐算法代码实现
-![输入图片说明](%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.png)
+![推荐算法](https://github.com/user-attachments/assets/3074f0a8-141c-4623-847d-a02354e86ff3)
+
 ## 系统展示
 **前台用户系统**
-![输入图片说明](%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](%E7%83%AD%E9%97%A8%E9%9F%B3%E4%B9%90.png)
-![输入图片说明](%E9%9F%B3%E4%B9%90%E8%AF%A6%E6%83%85.png)
-![输入图片说明](%E9%9F%B3%E4%B9%90%E8%B5%84%E8%AE%AF.png)
-![输入图片说明](%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)
-![输入图片说明](%E7%95%99%E8%A8%80%E4%BA%A4%E6%B5%81.png)
+![首页](https://github.com/user-attachments/assets/c60765f5-1497-428e-8946-4a8915036de5)
+![热门音乐](https://github.com/user-attachments/assets/92c6fc69-7d0d-43f2-a21c-41f3dd3a091c)
+![音乐资讯](https://github.com/user-attachments/assets/43a2a71a-0a69-41e4-af77-6e3fe7815f09)
+![音乐详情](https://github.com/user-attachments/assets/a1fdc96e-8e87-443d-bd05-6faf4b68c118)
+![留言交流](https://github.com/user-attachments/assets/173f997b-b340-49e0-abd1-afd4c7383d1f)
+![个人中心](https://github.com/user-attachments/assets/4a4513a2-7eb3-4462-a140-9a19f6f31a85)
 
 **后台管理系统**
 
  1. 管理员方式登录：
-![输入图片说明](01%E5%90%8E%E5%8F%B0%E7%99%BB%E5%BD%95.png)
-![输入图片说明](02%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
-![输入图片说明](04%E7%83%AD%E9%97%A8%E9%9F%B3%E4%B9%90%E7%AE%A1%E7%90%86.png)
+![01后台登录](https://github.com/user-attachments/assets/ec9ef010-b34a-4c89-a6ae-7bcb29f5dca3)
+![02用户管理](https://github.com/user-attachments/assets/7be625b4-8140-4912-9241-9a190bf446ba)
+![04热门音乐管理](https://github.com/user-attachments/assets/3fb62156-bdbe-4dd1-8511-78a6749b971a)
 
  2. 用户方式登录：
+![05用户登录管理](https://github.com/user-attachments/assets/9947a095-5555-40d7-8ea1-43dafdc12ef0)
 
- ![输入图片说明](05%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E7%AE%A1%E7%90%86.png)
+# 源码获取：[协同过滤算法音乐推荐系统源码.zip](https://github.com/user-attachments/files/17257280/default.zip)
+
 
